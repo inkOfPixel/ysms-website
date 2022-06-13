@@ -1,0 +1,13 @@
+.git
+.gitignore
+
+Dockerfile
+.dockerignore
+
+node_modules
+
+public/build
+
+build
+
+.cache

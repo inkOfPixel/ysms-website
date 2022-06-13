@@ -1,0 +1,1097 @@
+[
+  {
+    "code": "AD",
+    "name": "Andorra",
+    "price": 0.095
+  },
+  {
+    "code": "AE",
+    "name": "United Arab Emirates",
+    "price": 0.065
+  },
+  {
+    "code": "AF",
+    "name": "Afghanistan",
+    "price": 0.155
+  },
+  {
+    "code": "AG",
+    "name": "Antigua and Barbuda",
+    "price": 0.09
+  },
+  {
+    "code": "AI",
+    "name": "Anguilla",
+    "price": 0.09
+  },
+  {
+    "code": "AL",
+    "name": "Albania",
+    "price": 0.105
+  },
+  {
+    "code": "AM",
+    "name": "Armenia",
+    "price": 0.125
+  },
+  {
+    "code": "AO",
+    "name": "Angola",
+    "price": 0.085
+  },
+  {
+    "code": "AR",
+    "name": "Argentina",
+    "price": 0.07
+  },
+  {
+    "code": "AS",
+    "name": "American Samoa",
+    "price": 0.065
+  },
+  {
+    "code": "AT",
+    "name": "Austria",
+    "price": 0.1
+  },
+  {
+    "code": "AU",
+    "name": "Australia",
+    "price": 0.07
+  },
+  {
+    "code": "AW",
+    "name": "Aruba",
+    "price": 0.085
+  },
+  {
+    "code": "AZ",
+    "name": "Azerbaijan",
+    "price": 0.17
+  },
+  {
+    "code": "BA",
+    "name": "Bosnia and Herzegovina",
+    "price": 0.08
+  },
+  {
+    "code": "BB",
+    "name": "Barbados",
+    "price": 0.09
+  },
+  {
+    "code": "BD",
+    "name": "Bangladesh",
+    "price": 0.115
+  },
+  {
+    "code": "BE",
+    "name": "Belgium",
+    "price": 0.13
+  },
+  {
+    "code": "BF",
+    "name": "Burkina Faso",
+    "price": 0.105
+  },
+  {
+    "code": "BG",
+    "name": "Bulgaria",
+    "price": 0.135
+  },
+  {
+    "code": "BH",
+    "name": "Bahrain",
+    "price": 0.06
+  },
+  {
+    "code": "BI",
+    "name": "Burundi",
+    "price": 0.115
+  },
+  {
+    "code": "BJ",
+    "name": "Benin",
+    "price": 0.11
+  },
+  {
+    "code": "BM",
+    "name": "Bermuda",
+    "price": 0.1
+  },
+  {
+    "code": "BN",
+    "name": "Brunei Darussalam",
+    "price": 0.075
+  },
+  {
+    "code": "BO",
+    "name": "Bolivia, Plurinational State of",
+    "price": 0.13
+  },
+  {
+    "code": "BR",
+    "name": "Brazil",
+    "price": 0.055
+  },
+  {
+    "code": "BS",
+    "name": "Bahamas",
+    "price": 0.085
+  },
+  {
+    "code": "BT",
+    "name": "Bhutan",
+    "price": 0.13
+  },
+  {
+    "code": "BW",
+    "name": "Botswana",
+    "price": 0.13
+  },
+  {
+    "code": "BY",
+    "name": "Belarus",
+    "price": 0.115
+  },
+  {
+    "code": "BZ",
+    "name": "Belize",
+    "price": 0.15
+  },
+  {
+    "code": "CA",
+    "name": "Canada",
+    "price": 0.065
+  },
+  {
+    "code": "CD",
+    "name": "Congo, The Democratic Republic of the",
+    "price": 0.155
+  },
+  {
+    "code": "CF",
+    "name": "Central African Republic",
+    "price": 0.115
+  },
+  {
+    "code": "CG",
+    "name": "Congo",
+    "price": 0.085
+  },
+  {
+    "code": "CH",
+    "name": "Switzerland",
+    "price": 0.105
+  },
+  {
+    "code": "CI",
+    "name": "Côte d'Ivoire",
+    "price": 0.09
+  },
+  {
+    "code": "CK",
+    "name": "Cook Islands",
+    "price": 0.085
+  },
+  {
+    "code": "CL",
+    "name": "Chile",
+    "price": 0.085
+  },
+  {
+    "code": "CM",
+    "name": "Cameroon",
+    "price": 0.095
+  },
+  {
+    "code": "CN",
+    "name": "China",
+    "price": 0.065
+  },
+  {
+    "code": "CO",
+    "name": "Colombia",
+    "price": 0.05
+  },
+  {
+    "code": "CR",
+    "name": "Costa Rica",
+    "price": 0.07
+  },
+  {
+    "code": "CU",
+    "name": "Cuba",
+    "price": 0.125
+  },
+  {
+    "code": "CV",
+    "name": "Cabo Verde",
+    "price": 0.135
+  },
+  {
+    "code": "CW",
+    "name": "Curaçao",
+    "price": 0.11
+  },
+  {
+    "code": "CY",
+    "name": "Cyprus",
+    "price": 0.055
+  },
+  {
+    "code": "CZ",
+    "name": "Czechia",
+    "price": 0.09
+  },
+  {
+    "code": "DE",
+    "name": "Germany",
+    "price": 0.12
+  },
+  {
+    "code": "DJ",
+    "name": "Djibouti",
+    "price": 0.09
+  },
+  {
+    "code": "DK",
+    "name": "Denmark",
+    "price": 0.065
+  },
+  {
+    "code": "DM",
+    "name": "Dominica",
+    "price": 0.095
+  },
+  {
+    "code": "DO",
+    "name": "Dominican Republic",
+    "price": 0.08
+  },
+  {
+    "code": "DZ",
+    "name": "Algeria",
+    "price": 0.13
+  },
+  {
+    "code": "EC",
+    "name": "Ecuador",
+    "price": 0.14
+  },
+  {
+    "code": "EE",
+    "name": "Estonia",
+    "price": 0.09
+  },
+  {
+    "code": "EG",
+    "name": "Egypt",
+    "price": 0.13
+  },
+  {
+    "code": "ER",
+    "name": "Eritrea",
+    "price": 0.11
+  },
+  {
+    "code": "ES",
+    "name": "Spain",
+    "price": 0.085
+  },
+  {
+    "code": "ET",
+    "name": "Ethiopia",
+    "price": 0.135
+  },
+  {
+    "code": "FI",
+    "name": "Finland",
+    "price": 0.09
+  },
+  {
+    "code": "FJ",
+    "name": "Fiji",
+    "price": 0.16
+  },
+  {
+    "code": "FK",
+    "name": "Falkland Islands (Malvinas)",
+    "price": 0.11
+  },
+  {
+    "code": "FM",
+    "name": "Micronesia, Federated States of",
+    "price": 0.12
+  },
+  {
+    "code": "FO",
+    "name": "Faroe Islands",
+    "price": 0.07
+  },
+  {
+    "code": "FR",
+    "name": "France",
+    "price": 0.095
+  },
+  {
+    "code": "GA",
+    "name": "Gabon",
+    "price": 0.13
+  },
+  {
+    "code": "GB",
+    "name": "United Kingdom",
+    "price": 0.065
+  },
+  {
+    "code": "GD",
+    "name": "Grenada",
+    "price": 0.095
+  },
+  {
+    "code": "GE",
+    "name": "Georgia",
+    "price": 0.2
+  },
+  {
+    "code": "GH",
+    "name": "Ghana",
+    "price": 0.145
+  },
+  {
+    "code": "GI",
+    "name": "Gibraltar",
+    "price": 0.09
+  },
+  {
+    "code": "GL",
+    "name": "Greenland",
+    "price": 0.05
+  },
+  {
+    "code": "GM",
+    "name": "Gambia",
+    "price": 0.105
+  },
+  {
+    "code": "GN",
+    "name": "Guinea",
+    "price": 0.145
+  },
+  {
+    "code": "GP",
+    "name": "Guadeloupe",
+    "price": 0.165
+  },
+  {
+    "code": "GQ",
+    "name": "Equatorial Guinea",
+    "price": 0.095
+  },
+  {
+    "code": "GR",
+    "name": "Greece",
+    "price": 0.085
+  },
+  {
+    "code": "GT",
+    "name": "Guatemala",
+    "price": 0.105
+  },
+  {
+    "code": "GW",
+    "name": "Guinea-Bissau",
+    "price": 0.145
+  },
+  {
+    "code": "GY",
+    "name": "Guyana",
+    "price": 0.095
+  },
+  {
+    "code": "HK",
+    "name": "Hong Kong",
+    "price": 0.085
+  },
+  {
+    "code": "HN",
+    "name": "Honduras",
+    "price": 0.09
+  },
+  {
+    "code": "HR",
+    "name": "Croatia",
+    "price": 0.08
+  },
+  {
+    "code": "HT",
+    "name": "Haiti",
+    "price": 0.095
+  },
+  {
+    "code": "HU",
+    "name": "Hungary",
+    "price": 0.11
+  },
+  {
+    "code": "ID",
+    "name": "Indonesia",
+    "price": 0.14
+  },
+  {
+    "code": "IE",
+    "name": "Ireland",
+    "price": 0.09
+  },
+  {
+    "code": "IL",
+    "name": "Israel",
+    "price": 0.14
+  },
+  {
+    "code": "IN",
+    "name": "India",
+    "price": 0.06
+  },
+  {
+    "code": "IQ",
+    "name": "Iraq",
+    "price": 0.135
+  },
+  {
+    "code": "IR",
+    "name": "Iran, Islamic Republic of",
+    "price": 0.1
+  },
+  {
+    "code": "IS",
+    "name": "Iceland",
+    "price": 0.09
+  },
+  {
+    "code": "IT",
+    "name": "Italy",
+    "price": 0.085
+  },
+  {
+    "code": "JM",
+    "name": "Jamaica",
+    "price": 0.1
+  },
+  {
+    "code": "JO",
+    "name": "Jordan",
+    "price": 0.16
+  },
+  {
+    "code": "JP",
+    "name": "Japan",
+    "price": 0.09
+  },
+  {
+    "code": "KE",
+    "name": "Kenya",
+    "price": 0.135
+  },
+  {
+    "code": "KG",
+    "name": "Kyrgyzstan",
+    "price": 0.16
+  },
+  {
+    "code": "KH",
+    "name": "Cambodia",
+    "price": 0.135
+  },
+  {
+    "code": "KI",
+    "name": "Kiribati",
+    "price": 0.1
+  },
+  {
+    "code": "KM",
+    "name": "Comoros",
+    "price": 0.075
+  },
+  {
+    "code": "KN",
+    "name": "Saint Kitts and Nevis",
+    "price": 0.1
+  },
+  {
+    "code": "KP",
+    "name": "Korea, Democratic People's Republic of",
+    "price": 0.13
+  },
+  {
+    "code": "KR",
+    "name": "Korea, Republic of",
+    "price": 0.06
+  },
+  {
+    "code": "KW",
+    "name": "Kuwait",
+    "price": 0.08
+  },
+  {
+    "code": "KY",
+    "name": "Cayman Islands",
+    "price": 0.095
+  },
+  {
+    "code": "KZ",
+    "name": "Kazakhstan",
+    "price": 0.15
+  },
+  {
+    "code": "LA",
+    "name": "Lao People's Democratic Republic",
+    "price": 0.095
+  },
+  {
+    "code": "LB",
+    "name": "Lebanon",
+    "price": 0.095
+  },
+  {
+    "code": "LC",
+    "name": "Saint Lucia",
+    "price": 0.085
+  },
+  {
+    "code": "LI",
+    "name": "Liechtenstein",
+    "price": 0.095
+  },
+  {
+    "code": "LK",
+    "name": "Sri Lanka",
+    "price": 0.14
+  },
+  {
+    "code": "LR",
+    "name": "Liberia",
+    "price": 0.12
+  },
+  {
+    "code": "LS",
+    "name": "Lesotho",
+    "price": 0.14
+  },
+  {
+    "code": "LT",
+    "name": "Lithuania",
+    "price": 0.065
+  },
+  {
+    "code": "LU",
+    "name": "Luxembourg",
+    "price": 0.125
+  },
+  {
+    "code": "LV",
+    "name": "Latvia",
+    "price": 0.08
+  },
+  {
+    "code": "LY",
+    "name": "Libya",
+    "price": 0.14
+  },
+  {
+    "code": "MA",
+    "name": "Morocco",
+    "price": 0.12
+  },
+  {
+    "code": "MC",
+    "name": "Monaco",
+    "price": 0.09
+  },
+  {
+    "code": "MD",
+    "name": "Moldova, Republic of",
+    "price": 0.095
+  },
+  {
+    "code": "ME",
+    "name": "Montenegro",
+    "price": 0.07
+  },
+  {
+    "code": "MG",
+    "name": "Madagascar",
+    "price": 0.11
+  },
+  {
+    "code": "MH",
+    "name": "Marshall Islands",
+    "price": 0.115
+  },
+  {
+    "code": "MK",
+    "name": "North Macedonia",
+    "price": 0.06
+  },
+  {
+    "code": "ML",
+    "name": "Mali",
+    "price": 0.135
+  },
+  {
+    "code": "MM",
+    "name": "Myanmar",
+    "price": 0.125
+  },
+  {
+    "code": "MN",
+    "name": "Mongolia",
+    "price": 0.14
+  },
+  {
+    "code": "MO",
+    "name": "Macao",
+    "price": 0.085
+  },
+  {
+    "code": "MQ",
+    "name": "Martinique",
+    "price": 0.095
+  },
+  {
+    "code": "MR",
+    "name": "Mauritania",
+    "price": 0.2
+  },
+  {
+    "code": "MS",
+    "name": "Montserrat",
+    "price": 0.08
+  },
+  {
+    "code": "MT",
+    "name": "Malta",
+    "price": 0.095
+  },
+  {
+    "code": "MU",
+    "name": "Mauritius",
+    "price": 0.17
+  },
+  {
+    "code": "MV",
+    "name": "Maldives",
+    "price": 0.095
+  },
+  {
+    "code": "MW",
+    "name": "Malawi",
+    "price": 0.14
+  },
+  {
+    "code": "MX",
+    "name": "Mexico",
+    "price": 0.06
+  },
+  {
+    "code": "MY",
+    "name": "Malaysia",
+    "price": 0.09
+  },
+  {
+    "code": "MZ",
+    "name": "Mozambique",
+    "price": 0.085
+  },
+  {
+    "code": "NA",
+    "name": "Namibia",
+    "price": 0.085
+  },
+  {
+    "code": "NC",
+    "name": "New Caledonia",
+    "price": 0.17500000000000002
+  },
+  {
+    "code": "NE",
+    "name": "Niger",
+    "price": 0.13
+  },
+  {
+    "code": "NG",
+    "name": "Nigeria",
+    "price": 0.165
+  },
+  {
+    "code": "NI",
+    "name": "Nicaragua",
+    "price": 0.075
+  },
+  {
+    "code": "NL",
+    "name": "Netherlands",
+    "price": 0.125
+  },
+  {
+    "code": "NO",
+    "name": "Norway",
+    "price": 0.09
+  },
+  {
+    "code": "NP",
+    "name": "Nepal",
+    "price": 0.14
+  },
+  {
+    "code": "NR",
+    "name": "Nauru",
+    "price": 0.095
+  },
+  {
+    "code": "NZ",
+    "name": "New Zealand",
+    "price": 0.12
+  },
+  {
+    "code": "OM",
+    "name": "Oman",
+    "price": 0.11
+  },
+  {
+    "code": "PA",
+    "name": "Panama",
+    "price": 0.075
+  },
+  {
+    "code": "PE",
+    "name": "Peru",
+    "price": 0.065
+  },
+  {
+    "code": "PF",
+    "name": "French Polynesia",
+    "price": 0.135
+  },
+  {
+    "code": "PG",
+    "name": "Papua New Guinea",
+    "price": 0.095
+  },
+  {
+    "code": "PH",
+    "name": "Philippines",
+    "price": 0.08
+  },
+  {
+    "code": "PK",
+    "name": "Pakistan",
+    "price": 0.105
+  },
+  {
+    "code": "PL",
+    "name": "Poland",
+    "price": 0.065
+  },
+  {
+    "code": "PM",
+    "name": "Saint Pierre and Miquelon",
+    "price": 0.155
+  },
+  {
+    "code": "PR",
+    "name": "Puerto Rico",
+    "price": 0.115
+  },
+  {
+    "code": "PS",
+    "name": "Palestine, State of",
+    "price": 0.165
+  },
+  {
+    "code": "PT",
+    "name": "Portugal",
+    "price": 0.065
+  },
+  {
+    "code": "PW",
+    "name": "Palau",
+    "price": 0.1
+  },
+  {
+    "code": "PY",
+    "name": "Paraguay",
+    "price": 0.095
+  },
+  {
+    "code": "QA",
+    "name": "Qatar",
+    "price": 0.08
+  },
+  {
+    "code": "RE",
+    "name": "Réunion",
+    "price": 0.215
+  },
+  {
+    "code": "RO",
+    "name": "Romania",
+    "price": 0.09
+  },
+  {
+    "code": "RS",
+    "name": "Serbia",
+    "price": 0.07
+  },
+  {
+    "code": "RU",
+    "name": "Russian Federation",
+    "price": 0.1
+  },
+  {
+    "code": "RW",
+    "name": "Rwanda",
+    "price": 0.095
+  },
+  {
+    "code": "SA",
+    "name": "Saudi Arabia",
+    "price": 0.085
+  },
+  {
+    "code": "SB",
+    "name": "Solomon Islands",
+    "price": 0.095
+  },
+  {
+    "code": "SC",
+    "name": "Seychelles",
+    "price": 0.115
+  },
+  {
+    "code": "SD",
+    "name": "Sudan",
+    "price": 0.12
+  },
+  {
+    "code": "SE",
+    "name": "Sweden",
+    "price": 0.085
+  },
+  {
+    "code": "SG",
+    "name": "Singapore",
+    "price": 0.075
+  },
+  {
+    "code": "SI",
+    "name": "Slovenia",
+    "price": 0.065
+  },
+  {
+    "code": "SK",
+    "name": "Slovakia",
+    "price": 0.095
+  },
+  {
+    "code": "SL",
+    "name": "Sierra Leone",
+    "price": 0.095
+  },
+  {
+    "code": "SM",
+    "name": "San Marino",
+    "price": 0.1
+  },
+  {
+    "code": "SN",
+    "name": "Senegal",
+    "price": 0.145
+  },
+  {
+    "code": "SO",
+    "name": "Somalia",
+    "price": 0.155
+  },
+  {
+    "code": "SR",
+    "name": "Suriname",
+    "price": 0.095
+  },
+  {
+    "code": "ST",
+    "name": "Sao Tome and Principe",
+    "price": 0.13
+  },
+  {
+    "code": "SV",
+    "name": "El Salvador",
+    "price": 0.075
+  },
+  {
+    "code": "SY",
+    "name": "Syrian Arab Republic",
+    "price": 0.155
+  },
+  {
+    "code": "SZ",
+    "name": "Eswatini",
+    "price": 0.13
+  },
+  {
+    "code": "TC",
+    "name": "Turks and Caicos Islands",
+    "price": 0.125
+  },
+  {
+    "code": "TD",
+    "name": "Chad",
+    "price": 0.145
+  },
+  {
+    "code": "TG",
+    "name": "Togo",
+    "price": 0.09
+  },
+  {
+    "code": "TH",
+    "name": "Thailand",
+    "price": 0.055
+  },
+  {
+    "code": "TJ",
+    "name": "Tajikistan",
+    "price": 0.125
+  },
+  {
+    "code": "TL",
+    "name": "Timor-Leste",
+    "price": 0.115
+  },
+  {
+    "code": "TM",
+    "name": "Turkmenistan",
+    "price": 0.065
+  },
+  {
+    "code": "TN",
+    "name": "Tunisia",
+    "price": 0.14
+  },
+  {
+    "code": "TO",
+    "name": "Tonga",
+    "price": 0.085
+  },
+  {
+    "code": "TR",
+    "name": "Turkey",
+    "price": 0.045
+  },
+  {
+    "code": "TT",
+    "name": "Trinidad and Tobago",
+    "price": 0.105
+  },
+  {
+    "code": "TW",
+    "name": "Taiwan, Province of China",
+    "price": 0.09
+  },
+  {
+    "code": "TZ",
+    "name": "Tanzania, United Republic of",
+    "price": 0.1
+  },
+  {
+    "code": "UA",
+    "name": "Ukraine",
+    "price": 0.13
+  },
+  {
+    "code": "UG",
+    "name": "Uganda",
+    "price": 0.135
+  },
+  {
+    "code": "US",
+    "name": "United States",
+    "price": 0.075
+  },
+  {
+    "code": "UY",
+    "name": "Uruguay",
+    "price": 0.085
+  },
+  {
+    "code": "UZ",
+    "name": "Uzbekistan",
+    "price": 0.165
+  },
+  {
+    "code": "VC",
+    "name": "Saint Vincent and the Grenadines",
+    "price": 0.1
+  },
+  {
+    "code": "VE",
+    "name": "Venezuela, Bolivarian Republic of",
+    "price": 0.095
+  },
+  {
+    "code": "VG",
+    "name": "Virgin Islands, British",
+    "price": 0.095
+  },
+  {
+    "code": "VI",
+    "name": "Virgin Islands, U.S.",
+    "price": 0.085
+  },
+  {
+    "code": "VN",
+    "name": "Viet Nam",
+    "price": 0.115
+  },
+  {
+    "code": "VU",
+    "name": "Vanuatu",
+    "price": 0.17
+  },
+  {
+    "code": "WF",
+    "name": "Wallis and Futuna",
+    "price": 0.12
+  },
+  {
+    "code": "WS",
+    "name": "Samoa",
+    "price": 0.09
+  },
+  {
+    "code": "XK",
+    "name": "Kosovo",
+    "price": 0.09
+  },
+  {
+    "code": "YE",
+    "name": "Yemen",
+    "price": 0.125
+  },
+  {
+    "code": "ZA",
+    "name": "South Africa",
+    "price": 0.055
+  },
+  {
+    "code": "ZM",
+    "name": "Zambia",
+    "price": 0.13
+  },
+  {
+    "code": "ZW",
+    "name": "Zimbabwe",
+    "price": 0.065
+  }
+]
