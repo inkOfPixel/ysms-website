@@ -1,10 +1,9 @@
+# YSMS - Text Marketing
 
 <p align="center">
-<img src="./public/ysms-featured-image.png" alt="YSMS" width="200px" >
+  <img src="./public/ysms-featured-image.png" alt="YSMS" width="200px" >
 </p>
 
-
-# YSMS - Text Marketing
 
 YSMS is a text marketing Shopify app for your Shopify store.
 
@@ -34,7 +33,7 @@ To run type checking across the whole project, run `npm run typecheck`.
 
 ### Linting
 
-This project uses ESLint for linting that is configured in `.eslintrc.js`.
+This project uses ESLint for linting that is configured in [`.eslintrc.js`](./.eslintrc.js).
 
 ### Formatting
 
